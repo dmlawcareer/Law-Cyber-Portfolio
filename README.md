@@ -50,9 +50,9 @@ All technical exercises, simulations, and code samples contained within this rep
 
 ## 📬 Contact & Professional Links
 
-*   **LinkedIn:** [Your LinkedIn Profile URL]
+*   **LinkedIn:** [https://www.linkedin.com/in/dennismlaw/]
 *   **Professional Portfolio Website:** [Your GitHub Pages URL, if deployed]
-*   **Email:** [Your Professional Email]
+*   **Email:** [dmlawcareer@gmail.com]
 
 ***
 *“Man On A Mission — Driven by relentless curiosity, grounded in rigorous defense.”*
