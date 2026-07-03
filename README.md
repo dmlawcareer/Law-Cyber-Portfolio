@@ -1,5 +1,7 @@
 # Law-Cyber-Portfolio
-# Dennis M. Law | Advanced Cybersecurity & AI Security Portfolio
+# Dennis M. Law | A+, CC, GCCP, CISSP, SecAI+
+
+Advanced Cybersecurity & AI Security Portfolio
 
 Welcome to my technical portfolio. This repository serves as a living laboratory and documentation hub for my work in **Advanced Cybersecurity Infrastructure** and **AI Red Teaming / LLM Hardening**. 
 
