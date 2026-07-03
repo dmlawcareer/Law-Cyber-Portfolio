@@ -1,5 +1,5 @@
 # Cybersecurity and AI Red Teaming Portfolio
-# Dennis M. Law | A+, CC, GCCP, CISSP, SecAI+
+# Dennis M. Law | A+, CC, GCCP, CISSP, SecAI+, CAIDP, AAISM
 
 Advanced Cybersecurity & AI Security Portfolio
 
