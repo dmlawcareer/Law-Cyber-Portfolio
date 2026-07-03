@@ -51,7 +51,7 @@ All technical exercises, simulations, and code samples contained within this rep
 ## 📬 Contact & Professional Links
 
 *   **LinkedIn:** [https://www.linkedin.com/in/dennismlaw/]
-*   **Professional Portfolio Website:** [Your GitHub Pages URL, if deployed]
+*   **Professional Portfolio Website:** [https://github.com/dmlawcareer]
 *   **Email:** [dmlawcareer@gmail.com]
 
 ***
