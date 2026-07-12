@@ -29,6 +29,11 @@ My work bridges the gap between traditional enterprise security frameworks and t
 *   **[Kali Linux vs. Metasploitable Environment](./Virtual-Labs/exploit-simulations):** Comprehensive penetration testing write-ups detailing network reconnaissance, service enumeration, and successful exploit execution within a controlled hypervisor lab.
 *   **[Enterprise Systems Hardening Guides](./Virtual-Labs/system-hardening):** Actionable, step-by-step blueprints detailing the remediation strategies applied to secure vulnerable hosts post-exploitation.
 
+## Featured Lab Exercises
+* 🚀 **[OWASP LLM Prompt Injection Walkthrough](./walkthroughs/llm-prompt-injection-lab.md)**
+  * **Objective:** Audit a flawed semantic boundary validation gateway using PentestGPT.
+  * **Exploitation Vector:** Parameter tampering & keyword-triggered direct injection.
+  * **Mitigation Strategy:** Role separation, contextual isolation, and automated guardrail models.
 ---
 
 ## 🔬 Project Blueprint Methodology
